@@ -1,0 +1,2 @@
+<!--This is an HTML beginners' project from The Odin Project curriculum. This project should make use of all the fundamentals of HTML, including elements, attributes, adding photos as well as links.-->
+<!--From this project, I hope to create a blog that will host several recipes.>
