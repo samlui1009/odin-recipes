@@ -1,0 +1,13 @@
+.opening-page {
+    font-size: 50px;
+    font: Papyrus;
+    font-weight: bold;
+}
+
+.choco,
+.greentea,
+.whitechoco {
+    font-size: 20px;
+    color: green;
+    font: Verdana;
+}
