@@ -1,0 +1,16 @@
+body {
+    background-color: sandybrown;
+}
+
+.opening-header {
+    font-size: 50px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+
+}
+
+.recipe-list {
+    font-size: 20px;
+    color: brown;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
